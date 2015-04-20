@@ -33,4 +33,8 @@ public class Soal {
     public int pengurangan(int bilA, int bilB){
         return bilA - bilB;
     }
+    
+    public int penambahan(int bilA, int bilB){
+        return bilA + bilB;
+    }
 }
